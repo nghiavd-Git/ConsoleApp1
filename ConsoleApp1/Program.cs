@@ -11,6 +11,7 @@ namespace ConsoleApp1
             //sadasdasd
             //nghia
             //ádasd
+            Console.WriteLine("concac");
         }
     }
 }
